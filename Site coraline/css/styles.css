@@ -595,7 +595,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -3030,8 +3030,8 @@ textarea.form-control-lg {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #d9aa00;
-  border-color: #cca000;
+  background-color: #451b5a;
+  border-color: #451b5a;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11776,4 +11776,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .other-class {
   text-align: right;
+}
+
+.portfoliofont {
+  font-size: 23px;
 }
